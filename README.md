@@ -1,1 +1,2 @@
-# sistema_gestao_venda_carros
+# Sistema para gerenciamento e vendas/estoque
+# Em fase de desenvolvimento
